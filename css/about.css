@@ -1,0 +1,9 @@
+@media screen and (min-width: 1024px)  {
+    .about .list {
+        justify-content: center;
+    }
+.about .img {
+    height: 30rem;
+    object-fit: cover;
+}
+}

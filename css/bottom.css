@@ -1,0 +1,9 @@
+.bottom__wrapper {
+background-color: var(--first-brand-color);
+}
+.bottom {
+padding: 5rem 0;
+}
+@media screen and (min-width: 1024px) {
+  
+}
